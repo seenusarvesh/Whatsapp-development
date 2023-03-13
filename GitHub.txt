@@ -7,3 +7,4 @@ This is whatsapp code:---
 2.Chat Screen code
 
 3.Last Seen code
+4. Add videos and Audios
